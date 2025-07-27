@@ -4,7 +4,7 @@ import os
 import random
 import string
 from datetime import datetime
-import graphviz # Ensure this is installed: pip install graphviz streamlit_graphviz
+import graphviz 
 
 # ----------------- File & Directory Setup -----------------
 DATA_FILE = "data.json"
